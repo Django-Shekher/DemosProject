@@ -4,3 +4,6 @@ from django.shortcuts import render
 def  fun1(request):
     pass
 
+
+def   fun2(request):
+    pass
